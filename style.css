@@ -85,7 +85,6 @@ p {
   margin-top: 0px;
   padding-top: 25px;
   background-color: white;
-  */
 }
 .l1 {
   /* float: left;*/
@@ -227,4 +226,10 @@ carousel-content {
 span {
   font-family: Tahoma;
   font-size: 20px;
+}
+.timeline{
+  height: 270px;
+  width: 480px;
+  border-radius: 25px;
+  padding: 20px;
 }
