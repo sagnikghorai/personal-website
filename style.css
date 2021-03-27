@@ -16,9 +16,11 @@ body {
   text-align: center;
 }
 .cars {
-  width: 800px;
-  height: 450px;
+  width: 1280px;
+  height: 720px;
   margin-bottom: 50px;
+  border-radius: 10px;
+  border-color:#F00; width: inherit
 }
 #s1 {
   height: 800px;
